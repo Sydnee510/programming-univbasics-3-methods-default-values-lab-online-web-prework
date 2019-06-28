@@ -6,4 +6,4 @@ end
 # A plate of meat with broccoli and macaroni.
 meal_choice("broccoli", "macaroni", "tofu")
 # A plate of tofu with broccoli and macaroni.
-($s)
+($stdout)
